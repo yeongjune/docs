@@ -4,25 +4,32 @@
   
 - 前端
 
-  - [快速开始](quickstart.md)
+  - [HTML](quickstart.md)
+  - [CSS](quickstart.md)
+  - [JQUERY](quickstart.md)
+  - [JAVASRIPT](quickstart.md)
+  - [VUE](quickstart.md)
 
 - 后端
-  - [功能权限](view-permission.md)
+  - [JAVA](view-permission.md)
 
 - 移动端
-  - [功能权限](view-permission.md)
+  - [ANDROID](view-permission.md)
+  - [IOS](view-permission.md)
 
 - 服务器
 
-  - [选择组件](selector.md)
+  - [WINDOW](selector.md)
+  - [LINUX](selector.md)
 
 - 数据库
 
-  - [oracle](oracle.md)
+  - [MYSQL](oracle.md)
+  - [ORACLE](oracle.md)
 
 - GIT/SVN
 
-  - [oracle](oracle.md)
+  - [GIT/SVN](oracle.md)
   
 
 - 面试
@@ -30,9 +37,13 @@
   - [基础问题](interview/base.md)  
   - [常见问题](interview/interview.md)  
   
+- 工具
+
+  - [常用快捷键](hotkey.md)  
+  
 - 随笔
 
-  - [oracle](oracle.md)  
+  - [随笔](oracle.md)  
 
 - [版本]
 	
