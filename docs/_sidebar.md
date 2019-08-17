@@ -1,15 +1,39 @@
-* 序章
-    * [mall架构及功能概览](/mall_foreword_01.md)
-    * [mall学习所需知识点](/mall_foreword_02.md)
-  * HTML
-    * [mall整合SpringBoot+MyBatis搭建基本骨架](/mall_arch_01.md)
-    * [mall整合Swagger-UI实现在线API文档](/mall_arch_02.md)
-  * CSS
-    * [mall整合SpringBoot+MyBatis搭建基本骨架](/mall_arch_01.md)
-    * [mall整合Swagger-UI实现在线API文档](/mall_arch_02.md)
-  * JavaScript
-    * [mall整合SpringBoot+MyBatis搭建基本骨架](/mall_arch_01.md)
-    * [mall整合Swagger-UI实现在线API文档](/mall_arch_02.md)
-  * 服务端
-    * [服务端-java](服务端/java.md)
-    * [mall整合Swagger-UI实现在线API文档](/mall_arch_02.md)
+- docsify
+
+  - [快速入门](quickstart.md)
+  
+- 前端
+
+  - [快速开始](quickstart.md)
+
+- 后端
+  - [功能权限](view-permission.md)
+
+- 移动端
+  - [功能权限](view-permission.md)
+
+- 服务器
+
+  - [选择组件](selector.md)
+
+- 数据库
+
+  - [oracle](oracle.md)
+
+- GIT/SVN
+
+  - [oracle](oracle.md)
+  
+
+- 面试
+
+  - [基础问题](interview/base.md)  
+  - [常见问题](interview/interview.md)  
+  
+- 随笔
+
+  - [oracle](oracle.md)  
+
+- [版本]
+	
+  - [升级说明](version.md)
