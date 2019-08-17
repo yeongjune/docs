@@ -24,7 +24,7 @@
 
 - 数据库
 
-  - [MYSQL](oracle.md)
+  - [MYSQL](mysql.md)
   - [ORACLE](oracle.md)
 
 - GIT/SVN
