@@ -36,6 +36,9 @@
 
   - [基础问题](interview/base.md)  
   - [常见问题](interview/interview.md)  
+  - [多线程问题](interview/thread.md)  
+  - [分布式解决方案](interview/distributed.md)  
+  - [REDIS知识点](interview/redis.md)  
   
 - 工具
 

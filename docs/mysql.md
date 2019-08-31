@@ -23,7 +23,7 @@
 当提示mysql已停止后进行下一步操作   Shutting down MySQL. SUCCESS!
 在终端命令行输入一下命令  【登录mysql系统】
 
-> mysqld_safe --skip-grant-tables &         【
+> mysqld_safe --skip-grant-tables & 
 
 输入mysql登录mysql系统
 ```
