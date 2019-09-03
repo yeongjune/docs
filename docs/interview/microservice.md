@@ -20,4 +20,3 @@
 ![微服务架构图](../_images/微服务架构图.png)
 ![微服务架构图](../_images/微服务架构1.png)
 
-[23中设计模式](https://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html "设计模式")

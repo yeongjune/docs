@@ -40,6 +40,8 @@
   - [分布式解决方案](interview/distributed.md)  
   - [REDIS知识点](interview/redis.md)  
   - [微服务知识点](interview/microservice.md)  
+  - [Java开发中的23种设计模式详解](interview/designPatterns.md)  
+  - [动态代理](interview/proxy.md)  
   
 - 工具
 
