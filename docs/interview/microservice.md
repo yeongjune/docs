@@ -18,3 +18,6 @@
 - Spring Cloud Consul : 封装了Consul操作，Consul是一个服务发现与配置工具（与Eureka作用类似），与Docker容器可以无缝集成   
 
 ![微服务架构图](../_images/微服务架构图.png)
+![微服务架构图](../_images/微服务架构1.png)
+
+[23中设计模式](https://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html "设计模式")
