@@ -43,6 +43,7 @@
   - [Java开发中的23种设计模式详解](interview/designPatterns.md)  
   - [动态代理](interview/proxy.md)  
   - [项目经理](interview/manager.md)  
+  - [架构师之路](interview/architect.md)  
   
 - 工具
 
